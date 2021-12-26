@@ -10,8 +10,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author":{
-		"Trung Nhat"
 	}
 }
